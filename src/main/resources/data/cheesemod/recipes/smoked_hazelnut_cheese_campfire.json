@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "cheesemod:hazelnut_cheese"
+  },
+  "result": "cheesemod:smoked_hazelnut_cheese",
+  "experience": 0.4,
+  "cookingtime": 600
+}

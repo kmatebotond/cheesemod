@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "cheesemod:cheese"
+  },
+  "result": "cheesemod:smoked_cheese",
+  "experience": 0.4,
+  "cookingtime": 200
+}

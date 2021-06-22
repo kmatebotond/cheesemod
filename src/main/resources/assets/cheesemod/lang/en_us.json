@@ -1,0 +1,27 @@
+{
+  "itemGroup.cheesemod.cheese_mod": "Cheese Mod",
+
+  "block.cheesemod.milk_churn": "Milk Churn",
+  "item.cheesemod.milk_churner": "Milk Churner",
+
+  "block.cheesemod.hazelnut_plant": "Hazelnut",
+  "block.cheesemod.chilli_plant": "Chilli",
+  "block.cheesemod.black_pepper_plant": "Black Pepper",
+
+  "item.cheesemod.cheese": "Cheese",
+  "item.cheesemod.smoked_cheese": "Smoked Cheese",
+  "item.cheesemod.hazelnut_cheese": "Hazelnut Cheese",
+  "item.cheesemod.smoked_hazelnut_cheese": "Smoked Hazelnut Cheese",
+  "item.cheesemod.ghast_cheese": "Ghast Cheese",
+  "item.cheesemod.smoked_ghast_cheese": "Smoked Ghast Cheese",
+  "item.cheesemod.chilli_cheese": "Chilli Cheese",
+  "item.cheesemod.smoked_chilli_cheese": "Smoked Chilli Cheese",
+  "item.cheesemod.black_pepper_cheese": "Black Pepper Cheese",
+  "item.cheesemod.smoked_black_pepper_cheese": "Smoked Black Pepper Cheese",
+  "item.cheesemod.slimy_cheese": "Slimy Cheese",
+  "item.cheesemod.smoked_slimy_cheese": "Smoked Slimy Cheese",
+  "item.cheesemod.sea_pickle_cheese": "Sea Pickle Cheese",
+  "item.cheesemod.smoked_sea_pickle_cheese": "Smoked Sea Pickle Cheese",
+  "item.cheesemod.end_cheese": "End Cheese",
+  "item.cheesemod.smoked_end_cheese": "Smoked End Cheese"
+}

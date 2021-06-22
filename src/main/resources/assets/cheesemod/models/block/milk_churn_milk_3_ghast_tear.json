@@ -1,0 +1,17 @@
+{
+  "textures": {
+    "top": "cheesemod:block/milk_churn_milk_ghast_tear",
+    "particle": "cheesemod:block/milk_churn_milk_ghast_tear"
+  },
+  "elements": [
+    {
+      "from": [2, 2, 2],
+      "to": [14, 15, 14],
+      "faces": {
+        "up": {
+          "texture": "#top"
+        }
+      }
+    }
+  ]
+}

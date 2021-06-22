@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "cheesemod:ghast_cheese"
+  },
+  "result": "cheesemod:smoked_ghast_cheese",
+  "experience": 0.4,
+  "cookingtime": 600
+}

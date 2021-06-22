@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "cheesemod:black_pepper_cheese"
+  },
+  "result": "cheesemod:smoked_black_pepper_cheese",
+  "experience": 0.4,
+  "cookingtime": 600
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cheesemod:block/hazelnut_plant_2"
+  }
+}

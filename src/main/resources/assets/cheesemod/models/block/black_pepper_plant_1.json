@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cheesemod:block/black_pepper_plant_1"
+  }
+}

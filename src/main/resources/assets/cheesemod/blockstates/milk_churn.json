@@ -1,0 +1,97 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "cheesemod:block/milk_churn"
+      }
+    },
+    {
+      "when": {
+        "level": 1
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_1"
+      }
+    },
+    {
+      "when": {
+        "level": 2
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_2"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 0
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 1
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_hazelnut"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 2
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_ghast_tear"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 3
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_chilli"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 4
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_black_pepper"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 5
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_slime_ball"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 6
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_sea_pickle"
+      }
+    },
+    {
+      "when": {
+        "level": 3,
+        "ingredient": 7
+      },
+      "apply": {
+        "model": "cheesemod:block/milk_churn_milk_3_chorus_fruit"
+      }
+    }
+  ]
+}

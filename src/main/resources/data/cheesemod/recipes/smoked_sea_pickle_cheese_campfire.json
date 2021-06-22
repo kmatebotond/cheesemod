@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "cheesemod:sea_pickle_cheese"
+  },
+  "result": "cheesemod:smoked_sea_pickle_cheese",
+  "experience": 0.4,
+  "cookingtime": 600
+}

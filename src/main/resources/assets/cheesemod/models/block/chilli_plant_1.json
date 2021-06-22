@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cheesemod:block/chilli_plant_1"
+  }
+}

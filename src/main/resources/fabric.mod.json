@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "cheesemod",
+  "version": "${version}",
+
+  "name": "Cheese Mod",
+  "description": "Adds different kinds of cheeses to Minecraft.",
+  "authors": [
+    "Kiss Máté Botond"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "",
+  "icon": "assets/cheesemod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.kmatebotond.cheesemod.CheeseMod"
+    ],
+    "client":[
+      "io.github.kmatebotond.cheesemod.CheeseModClient"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
